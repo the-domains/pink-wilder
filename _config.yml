@@ -1,6 +1,6 @@
 name: Pink Wilder
 favicon: null
-layout_spectrum: 0.75932
+layout_spectrum: 0.54068
 typography_spectrum: 0.50585
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.17482296144589782
+  brandStrength: 1
   lightness: 0.11995450686663389
   saturation: 0.5
   rhythmicContrast: 0.75

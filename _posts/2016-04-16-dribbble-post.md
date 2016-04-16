@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Dribbble post
-datePublished: '2016-04-16T17:49:01.952Z'
-dateModified: '2016-04-16T17:47:51.947Z'
+datePublished: '2016-04-16T17:59:51.425Z'
+dateModified: '2016-04-16T17:59:36.978Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-16-dribbble-post.md
@@ -22,6 +22,4 @@ url: dribbble-post/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f92c6db4-9e22-4d42-83a0-3017e22ab899.png)
-
 Dribbble post
